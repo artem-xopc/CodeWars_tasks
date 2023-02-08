@@ -1,0 +1,1 @@
+const disemvowel = (str) => str.replace(/[aueio]/gi, "");
